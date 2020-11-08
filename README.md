@@ -30,6 +30,8 @@ Then change the content in message.txt. This will be the message in your mail.
 
 The next step is to prepare the list of peoples's email witch you want to send your mail.
 
+You'll find this code at line 85 in mail_sender.rb.
+
 ```Ruby
 # Contacts
   contacts = ['john@example.com', 'doe@example.com'] # <-- Array with target
@@ -39,4 +41,10 @@ The next step is to prepare the list of peoples's email witch you want to send y
                  'Change for your object', # <-- Array with target
                  'message.txt', # <-- File for your message
                  'attachment.pdf').handle # <-- File for your attachement you can delete it if you dont want to use
+```
+
+Then launch the script.
+
+```SHELL
+ruby mail_sender.rb
 ```

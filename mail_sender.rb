@@ -86,7 +86,7 @@ if __FILE__ == $0
   # Send emails
   MailSender.new('config.yml',
                  contacts,
-                 'Test email',
+                 'Change for your object',
                  'message.txt',
                  'attachment.pdf').handle
 end
