@@ -28,7 +28,7 @@ account:
 
 Then change the content in message.txt. This will be the message in your mail.
 
-The next step is to prepare the list of peoples's email witch you want to send your mail.
+The next step is to prepare the email list of the people you want to send your email to.
 
 You'll find this code at line 85 in mail_sender.rb.
 
