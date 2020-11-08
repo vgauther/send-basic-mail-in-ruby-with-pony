@@ -1,0 +1,10 @@
+# Email account configuration
+via: smtp
+fromname: Alex
+authenticate: true
+account:
+    hostname: smtp.example.com
+    port: 587
+    username: alex@example.com
+    password: password
+    tls: true
