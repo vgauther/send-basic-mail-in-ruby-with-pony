@@ -49,4 +49,4 @@ Then launch the script.
 ruby mail_sender.rb
 ```
 
-Based on a code wrote by yumminhuang.
+Based on code wrote by yumminhuang.
