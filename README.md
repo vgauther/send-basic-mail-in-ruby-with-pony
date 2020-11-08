@@ -48,3 +48,5 @@ Then launch the script.
 ```SHELL
 ruby mail_sender.rb
 ```
+
+Based on a code wrote by yumminhuang.
