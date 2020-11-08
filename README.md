@@ -1,4 +1,4 @@
-# Send basic mail in ruby with pony
+# Send basic mail in Ruby with Pony
 
 ## How to install
 
